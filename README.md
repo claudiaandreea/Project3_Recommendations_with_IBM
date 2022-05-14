@@ -24,11 +24,11 @@ For this project I have used the data available on the IBM Watson Studio platfor
 * email (str) - article email
 
 ### Articles data : data/articles_community.csv
-* doc_body	 (str) - age of the customer 
-* doc_description (str) - date when customer created an app account
-* doc_full_name (str) - gender of the customer (note some entries contain 'O' for other rather than M or F)
-* doc_status (str) - customer id
-* article_id (int64) - customer's income
+* doc_body	 (str) - article body 
+* doc_description (str) - article description
+* doc_full_name (str) - article full name
+* doc_status (str) - article status
+* article_id (int64) - article id
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I would like to give credit to IBM for the database used for this study and to Udacity for all the code techniques learning through the Data Science program. 
