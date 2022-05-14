@@ -11,11 +11,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation<a name="motivation"></a>
 For this project I have used the data available on the IBM Watson Studio platform provided by Udacity in order to design an exploratory data analysis and build a recommendation system by answering the following questions:
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering
-IV. Matrix Factorization
-V. Extras & Concluding
+# I. Exploratory Data Analysis
+# II. Rank Based Recommendations
+# III. User-User Based Collaborative Filtering
+# IV. Matrix Factorization
+# V. Extras & Concluding
 
 ## File Descriptions <a name="files"></a>
 ### Article interactions data: data/user-item-interactions.csv
